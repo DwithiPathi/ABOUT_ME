@@ -3,12 +3,7 @@ extends layout
 block content
   h1= title
   p Welcome to #{title}
-  extends layout
-
-block content
-  h1= title
-  p Welcome to #{title}
-  - var image_names = ["image1.jpg","image2.jpg","image3.jpg","image4.jpeg","image5.jpg"]
+  - var image_names = ["image1.jpg","image2.jpg","image3.jpg","image4.jpg","image5.jpg"]
   - for(let i=0; i<3;i++){
     -var num = image_names[Math.floor(Math.random() * 5)]
     
