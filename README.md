@@ -1,9 +1,9 @@
 **AboutMe:**
-**EDUCATION**
-*Master Of Science, Computer Science                                                  Jan 2022 - May 2023*
-Northwest Missouri State University                        GPA-3.70
-*Bachelor Of Technology, Computer Science                                             July 2017 - May 2021*
-ANURAG College of Engineering                              GPA-3.01
+**EDUCATION**<br>
+*Master Of Science, Computer Science                                                  Jan 2022 - May 2023*<br>
+Northwest Missouri State University                        GPA-3.70<br>
+*Bachelor Of Technology, Computer Science                                             July 2017 - May 2021*<br>
+ANURAG College of Engineering                              GPA-3.01<br>
 
 **Technical Skills**
 Programming Languages: Java, SQL, PL/SQL, C, C++.
