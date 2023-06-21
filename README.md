@@ -1,11 +1,11 @@
-**AboutMe:**<br>
+**ABOUTME:**<br>
 **EDUCATION**<br>
 *Master Of Science, Computer Science                                                  Jan 2022 - May 2023*<br>
 Northwest Missouri State University                        GPA-3.70<br>
 *Bachelor Of Technology, Computer Science                                             July 2017 - May 2021*<br>
 ANURAG College of Engineering                              GPA-3.01<br>
 
-**Technical Skills**<br>
+**TECHINICAL SKILLS**<br>
 Programming Languages: Java, SQL, PL/SQL, C, C++.<br>
 Java Technologies : J2EE, Servlets, JDBC.<br>
 Frameworks : Spring boot, Spring MVC, Spring Cloud, JSF.<br>
@@ -25,7 +25,7 @@ Operating Systems : Windows, LINUX, UNIX.<br>
 - Microsoft Technology Associate: Networking Fundamentals.<br>
 - Udemy Certification: Complete Java Engineer, Complete Python Boot Camp<br>
 
-**Work Experience**<br>
+**WORK EXPERIENCE**<br>
 *Programmer Analyst(Veon Consulting Services, Hyderabad, India Mar 2021 - Nov 2021)*<br>
 Responsibilities:<br>
 - Developed and maintained Java-based software applications using Spring, Hibernate, and JPA frameworks.
@@ -54,7 +54,7 @@ Triggers.
 PowerPoint).
 - Assisted students in solving the programming errors.
 
-**Projects:**<br>
+**PROJECTS**<br>
 *Event Tracking:*<br>
 - Developed and maintained a web application called Eve Trac using Spring Boot and React JS, MySQL, which
 allows organizers to create and edit details of the event(where, when, and how the event is going to take
